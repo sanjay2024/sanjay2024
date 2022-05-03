@@ -16,7 +16,7 @@
 - [js calculator](https://sanjay2024.github.io/js-calculator/)
 - [swiggy clone using html and native css](https://sanjay2024.github.io/shape__ai__projects/)
 - [Curd operation using js](https://sanjay2024.github.io/Curd-operation-project/)
-- [book management api by node js,express js,mongo db](https://sanjay2024.github.io/book-company-APIs /)
+- [book management api by node js,express js,mongo db](https://sanjay2024.github.io/book-company-APIs/)
 <!-- PROJECT LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
