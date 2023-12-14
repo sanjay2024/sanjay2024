@@ -13,10 +13,10 @@
 
 ### Projects done by  me :
 <!-- PROJECTS LIST:START -->
-- [js calculator](https://sanjay2024.github.io/js-calculator/)
+- [Teamify](https://github.com/sanjay2024/Teamify)
+- [bookMania](https://github.com/sanjay2024/book-mania)
+- [DisneyClone](https://github.com/sanjay2024/Disney-Clone-FrontEnd)
 - [swiggy clone using html and native css](https://sanjay2024.github.io/shape__ai__projects/)
-- [Curd operation using js](https://sanjay2024.github.io/Curd-operation-project/)
-- [book management api by node js,express js,mongo db](https://github.com/sanjay2024/book-company-APIs)
 <!-- PROJECT LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
