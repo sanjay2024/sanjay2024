@@ -10,9 +10,9 @@
 <h3 align="center">Software Development Engineer | Full-Stack Developer | Curious Tech Explorer</h3>
 <br>
 
-- 🔭 I’m currently working as **Software Development Engineer @ Klenty**
-- 🌱 Exploring **Low-Level Design (LLD)** and **Distributed Systems**
-- 💬 Ask me about **Node.js, Java, TypeScript, Python, Go, and Scalable System Design**
+- 🔭 Currently working as a **Software Development Engineer @ Klenty**  
+- 🌱 Exploring **AI/ML, Conversational AI, Distributed Systems, DevOps, and Networking**  
+- 💬 Ask me about **Scalable System Design, Node.js, Java, TypeScript, Python, and Go**
 - 📫 How to reach me: [sanjayhari2003@gmail.com](mailto:sanjayhari2003@gmail.com)
 
 ---
@@ -74,11 +74,5 @@
 
 ---
 
-### 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://holopin.me/sanjay2024" alt="Holopin Badges" />
-</p>
-
----
 
 ⭐️ From [Sanjay V](https://github.com/sanjay2024)
