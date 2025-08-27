@@ -1,44 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sanjay V</h1>
-<h3 align="center">I am a final year under-graduate student pursuing B.Tech IT from India.</h3>
+# Hi there, I'm Sanjay V 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay2024&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay2024" /> </p>
+🚀 Software Development Engineer | 🎵 Music Director | 💻 Full-Stack Developer  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanjay2024&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+I’m passionate about building scalable, intelligent software systems, working with cutting-edge technologies, and contributing to impactful open-source projects.
 
-- 📝 I AM Full Stack Developer 
+---
 
-- 💬 Ask me about **C, C++,Html,JavaScript,ReactJs,NodeJs,ExpressJs,MongoDb.**
+### 🧑‍💻 About Me
+- 🔭 Currently working at **Klenty** as a **Software Development Engineer**
+- 🌱 Learning **Low-Level Design (LLD)** and improving system design skills
+- 💡 Interested in **Distributed Systems, Search Systems, and AI-Powered Tools**
+- 🎼 Music Director with a love for composing English songs
 
-- 📫 How to reach me **sanjayhari2003@gmail.com**
+---
 
-### Projects done by  me :
-<!-- PROJECTS LIST:START -->
-- [Teamify](https://github.com/sanjay2024/Teamify)
-- [bookMania](https://github.com/sanjay2024/book-mania)
-- [DisneyClone](https://github.com/sanjay2024/Disney-Clone-FrontEnd)
-- [swiggy clone using html and native css](https://sanjay2024.github.io/shape__ai__projects/)
-<!-- PROJECT LIST:END -->
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sanjay-v-3aa8511bb" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-v" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_s._a._n._j._a._y._/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="_s._a._n._j._a._y._" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanjayhari2003" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="sanjayhari2003" height="30" width="40" /></a>
-<a href="https://leetcode.com/sanjuu123" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="sanjuu123" height="30" width="40" /></a>
-  
+#### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,go" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png" alt="react js" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node js" width="40" height="40"/> </a>
-    <a href="https://expressjs.com/" target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express js" width="40" height="40"/> </a>
-   <a href="https://mongodb.com/" target="_blank"> <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+#### 🗄️ Databases & Search
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,elasticsearch" />
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjay2024&show_icons=true&locale=en" alt="sanjay2024" /></p>
+#### 🔧 Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,graphql" />
+</p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay2024&" alt="sanjay2024" /></p>
+---
 
+### 📂 Projects
 
+#### 🔹 AI-Driven GitHub Pull Request Reviewer
+- Automated PR analysis using **AI** and **static code analysis**
+- Reduced technical debt by **30%** and improved dev velocity by **40%**
+
+#### 🔹 CodeImpact AI
+- Code change impact analyzer with **AST parsing** and **dependency graphs**
+- Reduced production rollbacks by **55%**
+
+---
+
+### 💼 Experience
+**Software Development Engineer @ Klenty (Jan 2024 - Present)**
+- Integrated multi-provider call services (Twilio, Plivo, Exotel)
+- Migrated codebase from **JavaScript to TypeScript**
+- Built a **Flutter** mobile app for real-time caller identification
+- Designed **microservices** for WebSocket and cron job management
+
+---
+
+### 🌐 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/sanjay2024"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://leetcode.com/sanjay_04V"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+  <a href="https://github.com/sanjay2024"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+⭐️ From [Sanjay V](https://github.com/sanjay2024)
